@@ -1,0 +1,11 @@
+{
+    "ressources": {
+        "wheat": {
+            "max_instances": 5
+        }, 
+        "nettle": {
+            "x": [1100],
+            "y": [460]
+        }
+    }
+}
